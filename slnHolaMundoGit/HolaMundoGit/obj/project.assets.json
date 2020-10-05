@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhon\\Documents\\Proyectos_git\\slnHolaMundoGit\\HolaMundoGit\\HolaMundoGit.csproj",
+      "projectUniqueName": "C:\\githubwork\\HelloWorld\\slnHolaMundoGit\\HolaMundoGit\\HolaMundoGit.csproj",
       "projectName": "HolaMundoGit",
-      "projectPath": "C:\\Users\\Jhon\\Documents\\Proyectos_git\\slnHolaMundoGit\\HolaMundoGit\\HolaMundoGit.csproj",
+      "projectPath": "C:\\githubwork\\HelloWorld\\slnHolaMundoGit\\HolaMundoGit\\HolaMundoGit.csproj",
       "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhon\\Documents\\Proyectos_git\\slnHolaMundoGit\\HolaMundoGit\\obj\\",
+      "outputPath": "C:\\githubwork\\HelloWorld\\slnHolaMundoGit\\HolaMundoGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
