@@ -6,7 +6,8 @@ namespace HolaMundoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Desde cambios de GitHub");
         }
     }
 }
